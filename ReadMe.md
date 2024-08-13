@@ -3,10 +3,12 @@ TypesScrip Mern My E-Commerce Store
 
 
 
+to create ts project
 
-  #  npm create vite@latest frontend -- --template react-ts
+    npm create vite@latest frontend -- --template react-ts
+to install npm
 
-  # npm install
+     npm install
 
 
-  time 27
+  time 48
