@@ -3,7 +3,7 @@
 // import viteLogo from "/vite.svg";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import { Col, Container, Nav, Navbar, Row } from "react-bootstrap";
+import {  Container, Nav, Navbar, } from "react-bootstrap";
 import { Outlet } from "react-router";
 
 function App() {
