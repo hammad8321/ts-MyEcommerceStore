@@ -3,6 +3,9 @@ TypesScrip Mern My E-Commerce Store
 
 
 
+
+
+
 to create ts project
 
     npm create vite@latest frontend -- --template react-ts
@@ -13,7 +16,7 @@ to install npm
 
 V9
 
-  time 1:10
+  time 1:26
 
   Hostplus E-Template
 

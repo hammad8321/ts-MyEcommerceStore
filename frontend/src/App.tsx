@@ -33,7 +33,7 @@ function App() {
       </main>
 
       <footer >
-        <div  className="text-center">All right Reserved </div>{" "}
+        <small  className="text-center">© 2022 Street Workout development. All rights reserved </small>{" "}
       </footer>
     </div>
   );
